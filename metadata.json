@@ -1,0 +1,6 @@
+{
+  "name": "PNG 100px Resizer",
+  "description": "Reduces PNG resolution to a maximum of 100px on its longest side while fully preserving original clarity, transparency, and lossless compression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
